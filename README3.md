@@ -16,7 +16,7 @@ To control the brightness of an LED by varying the resistance using a potentiome
  **Simulation**
 
 **![][image1]**
-
+![simulation](Simulation3.pdf)
 Circuit simulation of LED brightness control using potentiometer.
 
  **Working Principle**
@@ -26,7 +26,7 @@ The battery provides power to the circuit. The potentiometer is used to vary the
 **Result**
 
 **![][image2]**
-
+![result](result3.pdf)
 The circuit was successfully simulated and implemented on a breadboard. The LED brightness changes when the potentiometer is adjusted.
 
  **Conclusion**
